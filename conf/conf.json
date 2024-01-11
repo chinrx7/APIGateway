@@ -1,0 +1,15 @@
+{
+    "Gateways":
+    [
+        {
+            "Name" : "SUPER01",
+            "Address" : "http://192.168.9.134:4125",
+            "Pointsources" : ["J405","J406"]
+        },
+        {
+            "Name" : "SUPER02",
+            "Address" : "http://192.168.9.134:4126",
+            "Pointsources" : ["J407","J408"]
+        }
+    ]
+}
